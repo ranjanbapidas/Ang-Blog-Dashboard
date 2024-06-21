@@ -1,0 +1,11 @@
+input[type=text],
+input[type=email] {
+    height: 50px;
+    padding-left: 20px;
+    font-size: 20px;
+    width: 100%;
+} 
+
+.is-invalid{
+border: 2px solid red;
+}
